@@ -51,7 +51,9 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=blue-green)
 
 ### Contact me
-<img alt="Instagram" src="https://img.shields.io/badge/juliocmalvares%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a src="instagram.com/juliocmalvares"
+   <img alt="Instagram" src="https://img.shields.io/badge/juliocmalvares%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 
 <!--
 **juliocmalvares/juliocmalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
