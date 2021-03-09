@@ -1,10 +1,19 @@
-### Welcome to my GitHub 
+<h1 align="center">
+   Welcome to my GitHub🚀
+  </h1>
+  
 
 ## About me:
+- My name is Júlio, i am 24 years old.
+- From Abaeté, Brasil to world.
+- Almost Bachelor in Computer Engineering.
+- Working to be a Data Scientist.
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
 ![Profile views](https://gpvc.arturio.dev/juliocmalvares)
+
+### ⚡ Skills:
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
