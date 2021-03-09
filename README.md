@@ -3,6 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/juliocmalvares)
 
+[![GitHub issues](https://img.shields.io/github/issues/juliocmalvares/StrapDown.js.svg)](https://GitHub.com/juliocmalvares/StrapDown.js/issues/)
+
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/juliocmalvares/StrapDown.js.svg)](https://GitHub.com/juliocmalvares/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
+
 <!--
 **juliocmalvares/juliocmalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
