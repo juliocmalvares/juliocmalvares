@@ -43,13 +43,10 @@
 <hr>
 
 ### 🔭 Statistics about my profile in 2021
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true)
-
-### 🔭 All Statistics about my profile 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&border_radius=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true&border_radius=1&count_private=true)
 
 ### 🔭 Most used languages
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=tokyonight&layout=compact)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=tokyonight&layout=compact&langs_count=10)
 
 <hr>
 
