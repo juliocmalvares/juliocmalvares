@@ -46,7 +46,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true&border_radius=10&count_private=true&hide_border=true&include_all_commits=true)
 
 ### 🔭 Most used languages
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=tokyonight&layout=compact&langs_count=10&border_radius=10&hide_border=true)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=tokyonight&layout=compact&langs_count=10&border_radius=10&hide_border=true?exclude_repo=ComputerEngineering,JSimpleCPP)
 
 <hr>
 
