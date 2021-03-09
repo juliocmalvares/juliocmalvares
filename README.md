@@ -8,6 +8,7 @@
 - From Abaeté, currently in Belo Horizonte.
 - Almost Bachelor in Computer Engineering.
 - Working to be a Data Scientist.
+<hr>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
