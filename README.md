@@ -5,7 +5,7 @@
 
 ## About me:
 - My name is Júlio, i am 24 years old.
-- From Abaeté, Brasil to world.
+- From Abaeté, currently in Belo Horizonte.
 - Almost Bachelor in Computer Engineering.
 - Working to be a Data Scientist.
 
