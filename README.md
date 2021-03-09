@@ -43,14 +43,15 @@
 
 
 
-
+### Statistics about my profile
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+### Most used languages
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=blue-green)
 
-
+### Contact me
+<img alt="Instagram" src="https://img.shields.io/badge/juliocmalvares%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 <!--
 **juliocmalvares/juliocmalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
