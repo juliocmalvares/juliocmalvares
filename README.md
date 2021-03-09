@@ -10,9 +10,6 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![forthebadge made-with-python](https://simpleicons.org/icons/postgresql.svg)](https://www.python.org/)
-
-
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=blue-green)
 
