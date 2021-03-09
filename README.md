@@ -47,11 +47,11 @@
 
 
 ### Statistics about my profile
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true)
 
 
 ### Most used languages
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=tokyonight)
 
 ### Contact me
 
