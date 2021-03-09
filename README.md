@@ -13,8 +13,9 @@
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
+<--
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
+-->
 ![Profile views](https://gpvc.arturio.dev/juliocmalvares)
 
 ### ⚡ Skills:
