@@ -7,6 +7,9 @@
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&theme=blue-green)
+
+[![Sparkline](https://stars.medv.io/juliocmalvares/badges.svg)](https://stars.medv.io/juliocmalvares/badges)
+
 <!--
 **juliocmalvares/juliocmalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
