@@ -8,6 +8,7 @@
 - From Abaeté, currently in Belo Horizonte.
 - Almost Bachelor in Computer Engineering.
 - Working to be a Data Scientist.
+- 🔭 I’m currently working on Backend Development at Find Soluções in Belo Horizonte.
 <hr>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -55,7 +56,6 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliocmalvares/)
 [<img alt="Instagram" src="https://img.shields.io/badge/juliocmalvares%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/juliocmalvares/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juliocmalvares07@gmail.com)
-
 
 <!--
 **juliocmalvares/juliocmalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
