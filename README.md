@@ -19,7 +19,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 -->
 ![Profile views](https://gpvc.arturio.dev/juliocmalvares)
-
+<!-- 
 ### ⚡ Skills:
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<hr>
+<hr> -->
 
 ### 🔭 Statistics about my profile in 2021
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true&border_radius=10&count_private=true&hide_border=true)
