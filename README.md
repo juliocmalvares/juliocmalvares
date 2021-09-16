@@ -44,7 +44,7 @@
 <hr> -->
 
 ### 🔭 Statistics about my profile in 2021
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true&border_radius=10&count_private=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocmalvares&theme=tokyonight&show_icons=true&border_radius=10&count_private=false&hide_border=true)
 
 
 ### 🔭 Most used languages
