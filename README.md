@@ -5,7 +5,7 @@
 
 ## About me:
 - My name is Júlio, i am 24 years old.
-- From Abaeté, Minas Gerais
+- From Abaeté, Minas Gerais, currently on Curitiba - PR
 - Bachelor in Computer Engineering.
 - Finance Analytics at [EBANX](https://www.ebanx.com/br/)
 <!-- - 🔭 I’m currently working on Backend Development at Find Soluções in Belo Horizonte. -->
