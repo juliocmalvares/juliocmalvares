@@ -5,9 +5,9 @@
 
 ## About me:
 - My name is Júlio, i am 25 years old.
-- From Abaeté, Minas Gerais, currently on Curitiba - PR
 - Bachelor in Computer Engineering.
 - Software Engineer at [EBANX](https://www.ebanx.com/br/)
+- I love nerd things!
 <hr>
 
 ### 🔭 Statistics about my profile in the last year!
