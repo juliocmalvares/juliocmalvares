@@ -6,7 +6,7 @@
 ## About me:
 - My name is Júlio, i am 25 years old.
 - Bachelor in Computer Engineering.
-- Software Engineer at [EBANX](https://www.ebanx.com/br/)
+- Data Analytics at [EBANX](https://www.ebanx.com/br/)
 - I love nerd things!
 <hr>
 
