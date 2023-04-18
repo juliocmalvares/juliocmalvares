@@ -4,10 +4,11 @@
   
 
 ## About me:
-- My name is Júlio, i am 25 years old.
+- My name is Júlio, i am 26 years old.
 - Bachelor in Computer Engineering.
 - Currently working with Analytics and Golang Development
 - Data Analytics at Arquivei
+- Golang Developer at Heatmapp
 - I love nerd things!
 <hr>
 
