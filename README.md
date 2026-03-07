@@ -63,9 +63,11 @@ fun_fact: "I love nerd things — from sci-fi to hardware hacking ⚡"
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocmalvares&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliocmalvares&theme=github_dark" alt="GitHub Stats" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmalvares&hide=yacc,makefile,cuda&theme=github_dark&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliocmalvares&theme=github_dark" alt="Top Languages by Repo" />
+  &nbsp;
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juliocmalvares&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
 <br/>
@@ -77,7 +79,7 @@ fun_fact: "I love nerd things — from sci-fi to hardware hacking ⚡"
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliocmalvares&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliocmalvares&theme=github_dark" alt="Contribution Graph" />
 </div>
 
 ---
@@ -99,19 +101,19 @@ fun_fact: "I love nerd things — from sci-fi to hardware hacking ⚡"
 <div align="center">
 
 <a href="https://github.com/juliocmalvares/fullcycle-rate-limiter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliocmalvares&repo=fullcycle-rate-limiter&theme=github_dark&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=juliocmalvares&repo=fullcycle-rate-limiter&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/juliocmalvares/skypiea">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliocmalvares&repo=skypiea&theme=github_dark&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=juliocmalvares&repo=skypiea&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 
 <a href="https://github.com/juliocmalvares/golang_ecommerce_studies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliocmalvares&repo=golang_ecommerce_studies&theme=github_dark&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=juliocmalvares&repo=golang_ecommerce_studies&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/juliocmalvares/fullcycle-cli-stress-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliocmalvares&repo=fullcycle-cli-stress-test&theme=github_dark&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=juliocmalvares&repo=fullcycle-cli-stress-test&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 
 </div>
