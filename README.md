@@ -45,10 +45,10 @@ fun_fact: "I love nerd things — from sci-fi to hardware hacking ⚡"
 <img src="https://skillicons.dev/icons?i=go,python,rust,cpp,bash" alt="Languages" />
 
 #### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=gin,fx,fastapi" alt="Frameworks" />
 
 #### Databases & Messaging
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq,kafka" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,clickhouse" alt="Databases" />
 
 #### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,githubactions,linux,nginx" alt="DevOps" />
